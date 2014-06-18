@@ -18,7 +18,7 @@
     <body>
         <div id="wrapper">
             <div id="header">
-                <img src="img/logo.png" alt="Keystone IT" id="logo"/>
+                <a href="index.html"><img src="img/logo.png" alt="Keystone IT" id="logo"/></a>
                 <h1 id="title">Remote Support</h1>
                 <hr id="seperator">
             </div><!-- End Header -->
